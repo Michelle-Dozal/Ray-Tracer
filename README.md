@@ -1,5 +1,5 @@
 # Ray-Tracer
->This project was completed while taking CS130 (Computer Graphics) at University of California, Riverside in Winter 2021. The main purpose of the course was to become familiar and comfortable using physics and vector knowledge to implement a ray tracer.
+>This project was completed while taking CS130 (Computer Graphics) at University of California, Riverside in Winter 2021 with Dr.Tamar Shinar. The main purpose of the course was to become familiar and comfortable using physics and vector knowledge to implement a ray tracer.
 
 ## General
 The main purpose of this project was to use generate 2D/3D objects using pixels by their light movement. Also known as "ray-tracing" and was implemented using shading/rays/physics concepts to bring it to life. 
