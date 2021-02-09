@@ -3,7 +3,6 @@
 
 ## General
 The main purpose of this project was to use generate 2D/3D objects using pixels by their light movement. Also known as "ray-tracing" and was implemented using shading/rays/physics concepts to bring it to life. 
->TBA
 
 Implemented Things like
 * Flat Shading
