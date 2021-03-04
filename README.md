@@ -13,7 +13,6 @@ Implemented Things like
 * Phong Shading (ambient,diffuse, & specular)
 * Shadows
 * Reflective Shading
->TBA
 
 ## Some Tests 
 
