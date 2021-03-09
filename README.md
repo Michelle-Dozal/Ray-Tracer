@@ -21,7 +21,7 @@ Implemented Things like
 
 
 ## Usage
-Once the files are downloaded and all the code is in place you can run the tests or the grading script. To run the tests, run ``` ./ray_tracer -i <test-file>``` and once it runs the output of that test file will be routed to the output.png where you can see it. To get more detailed info on the pixels you can use the -x & -y flags to print out information about a pixel using the "debug_pixel" function. To do so run ```./ray_tracer -i <test-file> -x 123 -y 234 ``` with the desired pixels. You can always go and add to the debug_pixel in the certain functions to see specific data. I was able to get it to test 25. :) 
+Once the files are downloaded and all the code is in place you can run the tests or the grading script. To compile do ```scons```. To run the tests, run ``` ./ray_tracer -i <test-file>``` and once it runs the output of that test file will be routed to the output.png where you can see it. To get more detailed info on the pixels you can use the -x & -y flags to print out information about a pixel using the "debug_pixel" function. To do so run ```./ray_tracer -i <test-file> -x 123 -y 234 ``` with the desired pixels. You can always go and add to the debug_pixel in the certain functions to see specific data. I was able to get it to test 25. :) 
 
 This project comes with a grading script, which you can run like this: ```./grading-script.py .``` and you will see all the tests that are passed.
 
